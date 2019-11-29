@@ -5,7 +5,7 @@ setup(
     author='None of your beeswax!',
     entry_points={
         'console_scripts': [
-            'flag_access=flag_access.main'
+            'flag_access=flag_access.main:main'
         ]
     }
 )
